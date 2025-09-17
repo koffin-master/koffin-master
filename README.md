@@ -1,29 +1,30 @@
 👋 Hi there! Welcome to my GitHub 👨‍💻
 # 👋 Hi, I'm Md Khurshid alam!
 
-I’m a web developer and a passionate tech enthusiast who loves creating impactful web solutions and exploring cutting-edge technologies. Here, you’ll find my journey through code, creativity, and innovation.
+I’m an AI enthusiast and iOS developer passionate about building intelligent mobile applications that combine cutting-edge AI with seamless user experiences. Here, you’ll find my journey through code, creativity, and innovation.
 
 🚀 What I Do
-	•	Web Development: Crafting user-friendly websites and robust web applications with modern frameworks and tools.
-	•	Frontend Focus: Responsive and visually appealing designs using HTML, CSS, JavaScript, and libraries like React.
-	•	Backend Expertise: Building scalable and efficient backends with Node.js, Express, and databases like MySQL and MongoDB.
-	•	Learning and Sharing: Exploring new trends in tech and sharing knowledge with the developer community.
+• AI & Machine Learning: Building predictive models, sentiment analysis systems, and intelligent solutions using Python, Scikit-learn, and Core ML.
+• iOS Development: Creating user-friendly iOS apps that integrate AI capabilities using Swift, UIKit, and Storyboard.
+• App Intelligence: Implementing AI-powered features like recommendation systems, image recognition, and predictive analytics within mobile apps.
+• Learning and Sharing: Exploring emerging AI technologies and sharing knowledge through projects and open-source contributions.
 
 🛠️ Tech Stack
-	•	Frontend: HTML | CSS | JavaScript 
-	•	Backend: Node.js | Express | MySQL | MongoDB
-	•	Tools & Platforms: Git | GitHub | VS Code | Postman
-	•	Currently Exploring: TypeScript | Next.js | Machine Learning in Web Applications | React | TailwindCSS
+• Languages: Python | Swift | C++ | Java (basics)
+• iOS Tools: Xcode | UIKit | Storyboard | SwiftUI | Core ML | Core Data
+• AI & ML: NumPy | Pandas | Scikit-learn | Matplotlib | TensorFlow (exploring)
+• Other Tools: Git | GitHub | VS Code | Jupyter Notebook
+• Currently Exploring: AI-driven iOS apps | Natural Language Processing | Deep Learning | Reinforcement Learning
 
 🌟 My GitHub Highlights
-	•	💡 Innovative side projects showcasing modern web practices.
-	•	📂 Contributions to open-source projects.
-	•	🛠️ Repositories with clean and reusable code.
+• 💡 AI projects like stock price prediction, IMDB review sentiment analysis, and recommendation systems.
+• 📱 iOS apps that integrate AI features, like SpinVC and Pallets enhanced with predictive logic.
+• 🛠️ Repositories with clean, reusable, and well-documented code demonstrating AI concepts in action.
 
 🌱 My Goals
-	•	Build scalable web applications that solve real-world problems.
-	•	Dive deeper into advanced JavaScript frameworks and cloud computing.
-	•	Continuously improve and give back to the developer community.
+• Build intelligent iOS applications powered by AI and ML.
+• Dive deeper into Core ML, NLP, and deep learning for mobile apps.
+• Continuously learn, experiment, and contribute to the AI and iOS developer community.
 
  ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/khurshid-rahmani-66142021a/)
